@@ -1,2 +1,2 @@
-# DSA_SingleLinkedList_Passing-Array-in-method
+# DSA_SingleLinkedList
 I Developed This Using Sublime Test Framework.
